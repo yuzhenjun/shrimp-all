@@ -5,10 +5,8 @@
 	<groupId>com.shrimp</groupId>
 	<artifactId>shrimp-all</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
 	<packaging>pom</packaging>
 	<name>shrimp-all</name>
-
 	<properties>
 		<project.version>1.0.0</project.version>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
