@@ -5,20 +5,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.shrimp</groupId>
-		<artifactId>shrimp-all</artifactId>
+		<artifactId>rpc-simple</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>common.security</artifactId>
-	<name>common.security</name>
+	<artifactId>rpc-api</artifactId>
+	<name>rpc-api</name>
+	<packaging>jar</packaging>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
-	<dependencies>
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-		</dependency>
-	</dependencies>
+	
 </project>
